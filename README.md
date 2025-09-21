@@ -93,6 +93,8 @@ Unsold Capital: $4.97K
 
 6. Conclusion
 
-This end-to-end project (SQL + Python + Power BI) provides a clear, data-driven view of vendor performance. It empowers decision-makers to improve vendor selection, enhance profitability, and strengthen supply chain efficiency.
+This end-to-end project (SQL + Python + Power BI) provides a clear, data-driven view of vendor performance. It empowers decision-makers to improve vendor selection, enhance profitability, and strengthen supply chain efficient.
+
+Here you can access powerbi --> 
 
 
